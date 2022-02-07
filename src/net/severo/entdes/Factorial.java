@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Manuel García Cremades
  *
  */
 public class Factorial {
